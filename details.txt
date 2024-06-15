@@ -1,0 +1,93 @@
+>diabetes health analysis(routine analysis), 
+>gym workout analysis(efficiency/time/intensity/age/lose/gain), 
+>avg monthly healthy diet analysis(routines), 
+>disease spread:(fACTORS/habits/prevention/heredity/surroundings/habitat/world crisis)
+>eye health depletion(factors/causes/activity/habits/prevention)
+>fraud detection in diff domains(phone call/bank/online shopp), 
+>people missing/dead in natural calamities (analysis/climate/human traffic/human interference in natural habitat/prevention)
+>murder rates/accident rates across nation(based on diff factors: financial/emotional/economic/region level/urban/rural/etc),
+>travel recommender INDIA (reviews/survery of ppl/rating/tourist sights/travel expense/economy of location/UNESCO/best time to vsit in a year/etc)
+>stock market/crypto (trends/investment over year/surevye/analysis)
+>jewellery analysis{gold silver platinium diamond} (best item to purchase/ factord affecting rates/financial budget/ scarcity/mining extraction/ world crisis/ other industries)
+>SALARY ESTIMATION PREDICTION ON DIFF ml BASED JOBS (recession/location/time period/job role/experience/company background/etc.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://www.kaggle.com/datasets/saketk511/travel-dataset-guide-to-indias-must-see-places
+https://www.kaggle.com/datasets/ritvik1909/indian-places-to-visit-reviews-data
+https://github.com/chirantan-sym/India-Tourism-Data-Analysis-Project-py/blob/main/India%20Tourism%20Data-%20project%20report.pdf
+https://navoneel1092283.github.io/fta-dataset/
+https://tourism.gov.in/sites/default/files/2023-01/India%20Tourism%20Statistics%20English%202022%20%28Revise%29%20%281%29.pdf
+https://tourism.gov.in/index.php/market-research-and-statistics
+https://data.gov.in/sector/Travel%20and%20Tourism
+
+
+
+
+
+My project includes:
+year wise number of residents/tourists visited for a loation
+google review ratings
+time need to isit a place (in hrs)
+plaxes wiht best time visit (morning/evening/dark/etc)
+entrance fee
+DSLR/camera allowance
+number of lanmarks/sight to visit in a city
+type of place(temple, beach, hill station, wildlife, etc.)
+signifi cance of place historic/scinetific/botanical/ports/etc.)
+zone(north sout east west)
+india year wise climate across zones
+modes of travel and their expenses (flight/train/ship/bus/etc)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://www.traveljaunts.in/travel-month-wise-recommendations-within-india-abroad/
+https://www.tripzygo.in/blogs/top-twelve-places-in-india-to-travel-each-month-of-the-year
+https://www.easemytrip.com/blog/best-places-to-travel-month-by-month-calendar
+https://www.tourism-of-india.com/travel-by-month.html
+https://www.enchantingtravels.com/destinations/india/best-time-to-visit-india/
+https://www.theindiatourism.com/india-tour-month-wise/index.html
