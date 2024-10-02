@@ -1,0 +1,8 @@
+The data sources include:
+Yearly tourism data from tourism.gov.in.
+(India Tourism Statistics 2021,2021,2023)
+Academic references such as:
+Journal of Hospitality Application & Research (JOHAR), Vol. 7 No. 2.
+Growth and Development of Indian Tourism Industry by Dr. Mandeep Kaur and Nitasha Sharma.
+Status of Regional Tourism Satellite Accounts (TSA) in India - Problems and Challenges by Dr. Raj Nath Pandey & Sandhya Singh. Data will be refreshed annually to ensure accuracy, relying on government and peer-reviewed sources.
+Kaggle
