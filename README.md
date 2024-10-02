@@ -1,3 +1,5 @@
+Link to Dashboard: https://public.tableau.com/app/profile/devang.giri.goswami/viz/TravelEase/TravelEaseDashboard?publish=yes
+<img src="dashboard.jpeg" width="128"/>
 Potential insights that such an analysis could yield:
 
 1. **Popular Travel Destinations**:
